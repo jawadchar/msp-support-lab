@@ -79,13 +79,3 @@ the assistant already knows what to do with it.
 **If an answer is too long or too vague**, say `shorter` or `just the click path`. Don't
 re-explain what you want.
 
-## Etiquette
-
-Open book is genuine, but there's a difference between confirming a detail and visibly
-reading a script. Use it to check, not to learn.
-
-Narrate the lookup when you do it — "let me double-check the order on this, I want to
-convert before removing the license" reads as diligence. Thirty seconds of silent
-reading reads as bluffing.
-
-The people who look best in open-book labs barely touch the book.
